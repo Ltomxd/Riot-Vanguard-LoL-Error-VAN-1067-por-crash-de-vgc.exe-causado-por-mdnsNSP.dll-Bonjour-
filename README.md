@@ -74,8 +74,8 @@ Paso 2 — Desinstalar Bonjour correctamente (GUID con llaves)
 Importante: el GUID va con llaves {}, no con corchetes [].
 CMD (Administrador):
 
-```msiexec /x {B91110FB-33B4-468B-90C2-4D5E8AE3FAE1} /qn
-```
+``msiexec /x {B91110FB-33B4-468B-90C2-4D5E8AE3FAE1} /qn
+``
 
 /x = desinstalar
 
